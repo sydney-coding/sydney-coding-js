@@ -6,11 +6,11 @@ https://www.loom.com/share/f46ef47d441b4b81950efce1d3b118ce
 - Creating fork and merge change via pull request:
 https://www.loom.com/share/330b5ea266c64868b48a5983b832f384
 
-When multiple people working on the same branch, if there is a conflict, there are a few options available to use to avoid issues when committing.
+When multiple people are working on the same branch, we look to try and avoid conflict issues when committing.
 - One option is to pull the current changes at the time before committing, manually adjust and then commit
 - Another option is to create a separate branch, commit to this branch and then merge. <span style="color: gray">(recommended)</span>
 
-In the below steps, we’ll go over the branch method, specifically inside a user’s own fork.
+In the below steps, we’ll go over the branch per feature method, specifically inside a user's own fork.
 
 **Process**
 - Fork the master branch (This allows not changing the master branch)
